@@ -1,1 +1,6 @@
-{"Name": "Bob Jonson", "Age": Seventyfive, "Alive": true, "Favorite Foods": ["Cereal", "Mustard","Onions"]}
+{
+"Name": "Bob Jonson",
+"Age": Seventyfive,
+"Alive": true,
+"Favorite Foods": ["Cereal", "Mustard","Onions"]
+}
